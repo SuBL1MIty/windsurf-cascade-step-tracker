@@ -86,7 +86,7 @@ Here's how to track your steps:
 2. **View Current Stats**
    - Check the Step Tracker panel in the sidebar
    - Look directly at the `step-tracker.json` file in your home directory
-   - Ask Cascade: "How many steps have I used so far?"
+   - Ask Cascade: "How many CASCADE steps have I used so far?"
 
 3. **Best Practices**
    - Always request step tracking at the start of important conversations
